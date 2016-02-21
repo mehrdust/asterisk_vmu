@@ -8,4 +8,5 @@ Create a database and import vru_db.sql into the new DB. Set the DB config under
 See the <a href="http://vru-ext.mehrdust.com"> demo </a> to see how the interface will look like.
 
 user: admin
-pw: pass
+<br>
+pw: pass 
