@@ -72,43 +72,43 @@ background-image: url(../images/icons/edit_task.png);
 }
 
 .HMSDesktop {
-    background-image: url("../images/Silk/application_go.png");
+    background-image: url("../images/application_go.png");
 }
 
 .SystemSettings {
-    background-image: url("../images/Silk/cog_edit.png");
+    background-image: url("../images/cog_edit.png");
 }
 
 .Reports {
-    background-image: url("../images/Silk/grid.png");
+    background-image: url("../images/grid.png");
 }
 
 .Guests {
-    background-image: url("../images/Silk/group.png");
+    background-image: url("../images/group.png");
 }
 
 .RoomReservation {
-    background-image: url("../images/Silk/script_edit.png");
+    background-image: url("../images/script_edit.png");
 }
 
 .sidebarHouse {
-    background-image: url("../images/Silk/house.png");
+    background-image: url("../images/house.png");
 }
 
 .rec-setpwd {
-    background-image: url("../images/Silk/edit_task.png");
+    background-image: url("../images/edit_task.png");
 }
 
 .rec-del {
-    background-image: url("../images/Silk/delete.gif");
+    background-image: url("../images/delete.gif");
 }
 
 .rec-audio-play {
-    background-image: url("../images/Silk/icons/control_play_blue.png");
+    background-image: url("../images/control_play_blue.png");
 }
 
 .rec-audio-download {
-    background-image: url("../images/Silk/icons/download.png");
+    background-image: url("../images/download.png");
 }
 
 
