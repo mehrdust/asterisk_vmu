@@ -1,0 +1,264 @@
+@font-face {
+    font-family: 'fontello';
+    src: url("../font/fontello.eot");
+    src: url("../font/fontello.eot?57098116#iefix") format('embedded-opentype'), url("../font/fontello.woff") format('woff'), url("../font/fontello.ttf") format('truetype'), url("../font/fontello.svg#fontello") format('svg');
+}
+
+#btnDashboard-btnWrap {
+    padding-left: 4px;
+    padding-top: 2px;
+}
+
+#btnSettings-btnWrap {
+    padding-left: 4px;
+    padding-top: 1px;
+}
+
+#btnLogout-btnWrap {
+    padding-left: 5px;
+    padding-top: 2px;
+}
+
+#app-header-title {
+    padding: 10px 10px 10px 10px;
+    top: 5px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #4e691f;
+    text-align: center;
+}
+
+#app-header {
+/*    background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#8fc33a),color-stop(100%,#739b2e));
+    background-image: -webkit-linear-gradient(top,#0781B1,#0A1824);
+    background-image: -moz-linear-gradient(top,#0781B1,#0A1824);
+    background-image: -o-linear-gradient(top,#0781B1,#0A1824);
+    background-image: linear-gradient(top,#0781B1,#0A1824);*/
+    /*border-bottom: 1px solid #567422;*/
+}
+
+.del-col{
+background-image: url(../images/icons/delete.gif);
+}
+
+.edit-col{
+background-image: url(../images/icons/edit_task.png);
+}
+
+.exportCSV {
+	background-image: url("../images/icons/export_csv.png");
+	height: 24px;
+	width: 24px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.importCSV {
+	background-image: url("../images/icons/import_csv.png");
+	height: 24px;
+	width: 24px;
+}
+
+.delList {
+	background-image: url("../images/icons/delete_list.png");
+	height: 24px;
+	width: 24px;
+}
+
+.avail-team .x-panel-header {
+    color:#15428b;
+    border-color:#99bbe8;
+}
+
+.HMSDesktop {
+    background-image: url("../images/Silk/application_go.png");
+}
+
+.SystemSettings {
+    background-image: url("../images/Silk/cog_edit.png");
+}
+
+.Reports {
+    background-image: url("../images/Silk/grid.png");
+}
+
+.Guests {
+    background-image: url("../images/Silk/group.png");
+}
+
+.RoomReservation {
+    background-image: url("../images/Silk/script_edit.png");
+}
+
+.sidebarHouse {
+    background-image: url("../images/Silk/house.png");
+}
+
+.rec-setpwd {
+    background-image: url("../images/Silk/edit_task.png");
+}
+
+.rec-del {
+    background-image: url("../images/Silk/delete.gif");
+}
+
+.rec-audio-play {
+    background-image: url("../images/Silk/icons/control_play_blue.png");
+}
+
+.rec-audio-download {
+    background-image: url("../images/Silk/icons/download.png");
+}
+
+
+
+.submitBtn {
+    background-color: #5CB85C;
+    border-color: #398439;
+    background-image: none;
+}
+
+.submitBtn:hover {
+    background-color: #47a447;
+    border-color: #398439;
+    background-image: none;
+}
+
+.resetBtn {
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    background-image: none;
+}
+
+.resetBtn:hover {
+    background-color: #ED9C28;
+    border-color: #eea236;
+    background-image: none;
+}
+
+.ExitBtn {
+    background-color: black;
+    border-color: black;
+/*    background-color: #344E85;
+    border-color: #344E85;*/
+    background-image: none;
+}
+
+.DelBtn {
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    background-image: none;
+}
+.DelBtn:hover {
+    background-color: #d2322d;
+    border-color: #ac2925;
+    background-image: none;
+}
+
+.SettingsBtn{
+    background-color: black;
+    border-color: black;
+/*    background-color: #344E85;
+    border-color: #344E85;*/
+    background-image: none;
+}
+
+.FDBtn {
+    background-color: black;
+    border-color: black;
+/*    background-color: #344E85;
+    border-color: #344E85;*/
+    background-image: none;
+}
+
+#btnDashboard-btnIconEl {
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+    opacity: .5;
+}
+
+#btnDashboard-btnIconEl:hover {
+    font-size: 20px;
+    line-height: 30px;
+    color: white;
+    opacity: .75;
+}
+
+#btnSettings-btnIconEl {
+    font-size: 25px;
+    line-height: 35px;
+    color: white;
+    opacity: .5;
+}
+
+#btnSettings-btnIconEl:hover {
+    font-size: 25px;
+    line-height: 35px;
+    color: white;
+    opacity: .75;
+}
+#btnLogout-btnIconEl {
+    font-size: 20px;
+    line-height: 33px;
+    color: white;
+    opacity: .5;
+}
+
+#btnLogout-btnIconEl:hover {
+    font-size: 20px;
+    line-height: 33px;
+    color: white;
+    opacity: .75;
+}
+.appHeader {
+    background-color: black;
+    /*background-color: #344E85;*/
+}
+
+#msg-div {
+    position:absolute;
+    left:40%;
+    top:80px;
+    width:300px;
+    z-index:20000;
+}
+
+#msg-div .msg {
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    /*background: #F6F6F6;*/
+    background: rgb(230, 241, 249);
+    border: 2px solid #157FCC;
+    margin-top: 2px;
+    padding: 10px 15px;
+    color: #555;
+}
+
+#msg-div .msg h3 {
+    margin: 0 0 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#msg-div .msg p {
+    margin: 0;
+}
+
+.LoginPage {
+    /*background: linear-gradient(to right top, rgba(2, 13, 20, 1) 2%,rgba(112,176,224,1) 100%);*/    
+    background-image: -webkit-gradient(
+	linear,
+	right bottom,
+	right bottom,
+	color-stop(0, #33768A),
+	color-stop(1, #0A010A)
+);
+background-image: -o-linear-gradient(right bottom, #33768A 0%, #0A010A 100%);
+background-image: -moz-linear-gradient(right bottom, #33768A 0%, #0A010A 100%);
+background-image: -webkit-linear-gradient(right bottom, #33768A 0%, #0A010A 100%);
+background-image: -ms-linear-gradient(right bottom, #33768A 0%, #0A010A 100%);
+background-image: linear-gradient(to right bottom, #33768A 0%, #0A010A 100%);
+}
+
