@@ -1,8 +1,8 @@
 <?php
 
-    define('DBSERVER', "172.16.1.128");
-    define('DBUSER', "root");
-    define('DBPSW', "Passw0rd");
+    define('DBSERVER', "localhost");
+    define('DBUSER', "vru_user");
+    define('DBPSW', "3(n?[hE*BA{LM?s");
     define('DBASE', "VRU");
 
 ?>
